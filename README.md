@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="#">
+    <a href="https://twitter.com/Ganeshkumar7721">
       <img src="https://user-images.githubusercontent.com/103630404/181740594-a5ce2f18-b241-4af0-b185-9861be749799.png" width="50px" alt="Twitter Badge"/>
     </a>
     &emsp;
